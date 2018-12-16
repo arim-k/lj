@@ -7,6 +7,10 @@ node_modules
 # macOS 폴더 속성
 .DS_Store
 
-# 임시 파
+# 임시 파일
 *.tmp
 *~
+
+# es5
+dist
+public/dist
