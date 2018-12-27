@@ -1,6 +1,6 @@
 const sam1 = {
   name: "Sam",
-  age: 4
+  age: 4,
 };
 
 // 한 줄 선언
@@ -15,8 +15,8 @@ const sam3 = {
     kingdom3: "c",
     kingdom4: "d",
     kingdom5: "e",
-    kingdom6: "f"
-  }
+    kingdom6: "f",
+  },
 };
 
 // 접근

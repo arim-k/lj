@@ -23,7 +23,7 @@ while (funds > 1 && funds < 100) {
     heart: 0,
     spade: 0,
     club: 0,
-    diamond: 0
+    diamond: 0,
   };
 
   let totalBet = rand(1, funds);
